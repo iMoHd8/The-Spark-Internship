@@ -18,7 +18,7 @@ The 2nd Task in The Internship of The Sparks Foundation in Data Science. This pr
 
 The project is organized as follows:
 
-- `iris_kmeans.ipynb`: Jupyter Notebook containing the Python code for loading the dataset, performing KMeans clustering, and visualizing the results.
+- `Prediction_Using_Unsupervised_ML.ipynb`: Jupyter Notebook containing the Python code for loading the dataset, performing KMeans clustering, and visualizing the results.
 - `README.md`: This file providing an overview of the project.
 - `Iris.csv`: This is The Used Iris Dataset.
 
@@ -33,4 +33,4 @@ The KMeans clustering algorithm successfully groups the Iris dataset into cluste
 - Blue points represent the 'Iris-versicolor' cluster.
 - Green points represent the 'Iris-virginica' cluster.
 
-The project's Jupyter Notebook (`iris_kmeans.ipynb`) provides a detailed view of the clustering process and visualization of the results.
+The project's Jupyter Notebook (`Prediction_Using_Unsupervised_ML.ipynb`) provides a detailed view of the clustering process and visualization of the results.
