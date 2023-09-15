@@ -11,6 +11,8 @@ work to make more profit and find all business problems we can derive by explori
 - **EDA Tool**: Tableau
 - **Libraries Used**: Pandas, Matplotlib, Seaborn
 - **Dataset Source**: [superstore.csv on Google Drive](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)
+- **Tableau**: [Superstore_Analysis on Tableau](https://public.tableau.com/views/Superstore_Analysis_16948087265900/STARTVIEW?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 &nbsp;
 
