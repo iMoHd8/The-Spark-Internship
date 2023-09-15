@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Retail
-The 3rd Task in The Internship of The Sparks Foundation in Data Science. This project demonstrates the EDA for a superstore retail dataset. The superstore dataset contains 16 columns. The Goal is To try to find out the weak areas where you can
+The 3rd Task in The Internship of The Sparks Foundation in Data Science. This project demonstrates the EDA for a superstore retail dataset. The superstore dataset contains 13 columns. The Goal is To try to find out the weak areas where you can
 work to make more profit and find all business problems we can derive by exploring the data.
 
 &nbsp;
